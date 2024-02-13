@@ -4,7 +4,7 @@ Dependecies:
 qb-core
 qb-target
 
-Paste this in qb-target Config.lua
+Paste this in qb-target init.lua
 
 ```
 Config.TargetModels = {
